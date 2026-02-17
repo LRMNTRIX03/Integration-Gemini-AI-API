@@ -18,23 +18,24 @@ node index.js
 ```
 ## Dokumentasi API
 1. **Teks**
-   ```php
+```php
   localhost:3000/ai/generate-text
-  ```
+```
   
 2. **Image**
-   ```php
+```php
   localhost:3000/ai/generate-image
-  ```
+```
   
 3. **Audio**
-   ```php
+```php
   localhost:3000/ai/generate-audio
-  ```
+```
   
 4. **Document**
-   ```php
+```php
   localhost:3000/ai/generate-document
+```
 
 
 
