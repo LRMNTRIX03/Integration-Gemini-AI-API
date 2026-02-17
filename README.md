@@ -32,7 +32,7 @@ node index.js
 4. **Document**
    ```php
   localhost:3000/ai/generate-document
-```
+
 
 
 
