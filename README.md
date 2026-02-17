@@ -20,14 +20,17 @@ node index.js
 1. **Teks**
    ```php
   localhost:3000/ai/generate-text
+  ```
   
 2. **Image**
    ```php
   localhost:3000/ai/generate-image
+  ```
   
 3. **Audio**
    ```php
   localhost:3000/ai/generate-audio
+  ```
   
 4. **Document**
    ```php
